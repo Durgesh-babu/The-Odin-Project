@@ -1,2 +1,2 @@
 # odin-recipes
-This is the first project in "The Odin Project" 
+A simple project displaying the recipes of a few dishes using basic HTML
