@@ -1,4 +1,3 @@
-# *Odin Projects*
+# *Recipies*
 
-The list of projects done by me during *The Odin Project* curriculum:
-* [Recipies](./Project-Recipies/)
+This is the first project in *The Odin Project* curriculum.
