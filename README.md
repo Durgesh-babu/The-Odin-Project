@@ -1,2 +1,4 @@
-# odin-recipes
-A simple project displaying the recipes of a few dishes using basic HTML
+# *Odin Projects*
+
+The list of projects done by me during *The Odin Project* curriculum:
+* [Recipies](./Project-Recipies/)
