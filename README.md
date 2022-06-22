@@ -1,3 +1,3 @@
-# *Recipies*
+# _Recipies_
 
-This is the first project in *The Odin Project* curriculum.
+This is the first project in _The Odin Project_ curriculum.
